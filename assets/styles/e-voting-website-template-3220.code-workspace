@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "e-voting-website-template-3220",
+			"path": "../../../e-voting-website-template-3220"
+		},
+		{
+			"name": "solusi-poll-main",
+			"path": "../.."
+		},
+		{
+			"name": "VSCode-win32-x64-1.74.0",
+			"path": "../../../VSCode-win32-x64-1.74.0"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "solusi-poll-main"
+	}
+}
