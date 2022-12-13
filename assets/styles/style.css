@@ -530,7 +530,7 @@ button:hover,
 
 .cards {
     background-color: rgba(0, 0, 0, 0.2);
-    border: 2px solid var(--flush-mahogany);
+    border: 1px solid var(--flush-mahogany);
     border-radius: 4px;
     transition: all .3s ease;
 }
